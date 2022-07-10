@@ -2,3 +2,4 @@ Testing CLI commands
 Once upon a time
 There was a wicked witch
 Who tought she was the most beautiful witch of them all
+Then she looked in the mirror and realized she wasn't
